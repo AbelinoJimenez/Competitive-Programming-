@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1512769791 source:c:\users\carlos\desktop\competive programmig practics\ 573 - the snail\main.cpp
+	<algorithm>
+	<cstdio>
+	<iostream>
+
